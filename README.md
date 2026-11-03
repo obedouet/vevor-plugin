@@ -7,7 +7,14 @@ This plugin has also been inspired by https://github.com/kovariktomas/Domoticz-P
 ## Installation
 
 Create a python venv and pip install from requirements.txt
+
+```
+python -m venv vevor-venv
+. vevor-venv/bin/activate
+pip install -r requirements.txt
+```
 Copy this directory under plugins in your domoticz installation.
+
 Start domoticz from the python venv.
 
 ## Usage
